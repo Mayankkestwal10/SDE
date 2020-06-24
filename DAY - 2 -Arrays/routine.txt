@@ -1,0 +1,23 @@
+Day - 2 (Arrays)
+
+1. Set Matrix Zeroes
+Link - https://leetcode.com/problems/set-matrix-zeroes/
+
+2. Pascal Triangle
+Link - https://leetcode.com/problems/pascals-triangle/
+Link - https://leetcode.com/problems/pascals-triangle-ii/
+
+3. Next Permutation
+Link - https://leetcode.com/problems/next-permutation/
+
+4. Inversion of Array(Using Merge Sort)
+Link - https://www.geeksforgeeks.org/counting-inversions/
+
+5. Stock Buy and Sell
+Link - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Link - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+
+
+6. Rotate Matrix
+Link - https://www.interviewbit.com/problems/rotate-matrix/
+Link - https://leetcode.com/problems/rotate-image/
