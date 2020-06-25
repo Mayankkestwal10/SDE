@@ -1,0 +1,23 @@
+Day - 3 - Maths
+
+1. Excel Column Number.
+Link - https://leetcode.com/problems/excel-sheet-column-number/
+
+
+2. Find n^x in logN.
+Link - https://leetcode.com/problems/powx-n/
+
+
+3. Count no. of trailing zeroes in factorial of a number.
+Link - https://leetcode.com/problems/factorial-trailing-zeroes/
+
+4. Find GCD in logN.
+Link - https://www.geeksforgeeks.org/c-program-find-gcd-hcf-two-numbers/
+
+5. Grid Unique Paths.
+Link - https://leetcode.com/problems/unique-paths/
+
+6. Length of a number.
+Link - https://www.geeksforgeeks.org/program-count-digits-integer-3-different-methods/
+
+7. Puzzles from GFG.
