@@ -1,0 +1,23 @@
+Day - 4 - Hashing
+
+1. 2 Sum problem
+Link - https://leetcode.com/problems/two-sum/
+
+
+2. 4 Sum problem
+Link - https://leetcode.com/problems/4sum/
+
+
+3. Longest Consecutive Sequence
+Link - https://leetcode.com/problems/longest-consecutive-sequence/
+
+
+4. Longest Subarray with K sum
+Link - https://www.interviewbit.com/problems/longest-subarray-sum-b/
+
+
+5. Count number of Subarrays with given XOR(this clears lot of problems)
+Link - https://www.interviewbit.com/problems/subarray-with-given-xor/
+
+6. Longest Substring without repeat
+Link - https://leetcode.com/problems/longest-substring-without-repeating-characters/
