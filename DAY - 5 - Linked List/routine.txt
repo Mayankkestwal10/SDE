@@ -1,0 +1,23 @@
+Day - 4 : Linked List
+
+1. Reverse a Linked List.
+Link - https://leetcode.com/problems/reverse-linked-list/
+
+
+2. Find middle of a Linked List
+Link - https://leetcode.com/problems/middle-of-the-linked-list/submissions/
+
+
+3. Merge Two Sorted Linked Lists
+Link - https://leetcode.com/problems/merge-two-sorted-lists/submissions/
+
+
+4. Remove n-th node from end of Linked List
+Link - https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/
+
+5. Remove a node from Linked List.
+Link - https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+
+6. Add Two Numbers
+Link - https://leetcode.com/problems/add-two-numbers/submissions/
