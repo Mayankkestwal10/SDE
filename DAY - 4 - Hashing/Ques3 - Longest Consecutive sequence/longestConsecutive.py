@@ -38,3 +38,39 @@ class Solution:
             ans = max(ans, val)
         
         return ans
+
+
+# Method - 3 (Streak) - O(n)
+
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+        d = {}
+        n = len(nums)
+        
+        if(n==0):
+            return 0
+        if(n==1):
+            return 1
+        
+        for i in range(n):
+            r = 0
+            l = 0
+            
+            if(nums[i] not in d.keys()):
+                if(nums[i]-1 in d):
+                    l = d[nums[i]-1]
+                
+                if(nums[i]+1 in d):
+                    r = d[nums[i]+1]
+            else:
+                continue
+           
+            d[nums[i]] = l+r+1
+                
+            d[nums[i]-l] = l+r+1
+            
+            d[nums[i]+r] = l+r+1
+                
+                
+
+        return max(d.values())
